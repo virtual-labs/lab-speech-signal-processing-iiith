@@ -11,7 +11,7 @@
   "experiments": [
     {
       "name": "Manual speech signal-to-symbol transformation",
-      "short-name": "speech-signal-to-symbol-transformation ",
+      "short-name": "speech-signal-to-symbol-transformation",
       "repo": "https://github.com/virtual-labs/exp-manual-speech-signal-iiith",
       "tag": "v1.0.1",
       "deploy": true
