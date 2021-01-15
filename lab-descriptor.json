@@ -5,6 +5,7 @@
   },
   "lab": "Speech Signal Processing",
   "phase": 3,
+  "deployLab": true,
   "collegeName": "IIITH",
   "baseUrl": "ssp-iiith.vlabs.ac.in",
   "introduction": "Welcome to the Speech Signal Processing Lab",
