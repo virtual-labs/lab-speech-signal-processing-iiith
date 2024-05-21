@@ -1,9 +1,11 @@
 {
   "broadArea": {
     "name": "Computer Science and Engineering",
-    "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
+    "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering",
+    "code":"CSE"
   },
   "lab": "Speech Signal Processing",
+  "lab_display_name":"Speech Signal Processing",
   "phase": 2,
   "deployLab": true,
   "collegeName": "IIITH",
@@ -140,7 +142,5 @@
       "label": "References"
     },
     { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
-  ],
-  "exp_name": "Analysis by synthesis of speech",
-  "exp_short_name": "analysis-by-synthesis"
+  ]
 }
