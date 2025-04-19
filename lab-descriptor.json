@@ -68,13 +68,7 @@
       "tag": "v1.0.2",
       "deploy": true
     },
-    {
-      "name": "Formant synthesis",
-      "short-name": "formant-synthesis",
-      "repo": "https://github.com/virtual-labs/exp-formant-synthesis-iiith",
-      "tag": "v1.0.2",
-      "deploy": true
-    },
+   
     {
       "name": "Analysis by synthesis of speech",
       "short-name": "analysis-by-synthesis",
